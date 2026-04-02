@@ -21,5 +21,25 @@
 ## gün5 12/03/2026
 - html ile temel bilgi vidosu izlendi
 - github temel bilgi videosu izlendi
-- javascript ile temel bilgiye giriş yapıldı 
+- javascript ile temel bilgiye giriş yapıldı
+
+## Gün 6 - 25/03/2026
+- HTML'de formlara geçildi
+- Temel CSS'e geçildi
+
+## Gün 7 - 26/03/2026
+- Temel CSS bitti
+- Kutu modeli bitti
+- CSS ile biçimlendirmeye geçildi
+
+## Gün 8 - 27/03/2026
+- CSS biçimlendirme bitti
+- Kişisel web sitesi uygulaması izlendi
+- JavaScript farkındalığı izlendi
+
+## Gün 9 - 01/04/2026
+- HTML bitti
+- HTML testi çözüldü
+- JavaScripte giriş yapıldı
+
 
