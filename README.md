@@ -42,4 +42,12 @@
 - HTML testi çözüldü
 - JavaScripte giriş yapıldı
 
+## Gün 10 - 02/04/2026
+- IDE nedir izlendi
+- Notepad++ kurulumu izlendi
+- Adobe Creative Cloud kısmı izlendi
+
+## Gün 11 - 03/04/2026
+- Javascript ile ilgili döklümanlar izlendi
+
 
